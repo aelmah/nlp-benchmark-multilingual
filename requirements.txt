@@ -1,0 +1,5 @@
+datasets
+langdetect
+langid
+fasttext-wheel
+pandas

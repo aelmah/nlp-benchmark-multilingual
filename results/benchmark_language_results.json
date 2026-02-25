@@ -1,0 +1,32 @@
+{
+    "langdetect": {
+        "accuracy_global": 99.71,
+        "accuracy_per_lang": {
+            "ar": 100.0,
+            "fr": 100.0,
+            "en": 100.0,
+            "es": 99.0
+        },
+        "speed_ms": 6.185
+    },
+    "langid": {
+        "accuracy_global": 99.71,
+        "accuracy_per_lang": {
+            "ar": 100.0,
+            "fr": 100.0,
+            "en": 100.0,
+            "es": 99.0
+        },
+        "speed_ms": 6.116
+    },
+    "fastText": {
+        "accuracy_global": 100.0,
+        "accuracy_per_lang": {
+            "ar": 100.0,
+            "fr": 100.0,
+            "en": 100.0,
+            "es": 100.0
+        },
+        "speed_ms": 0.076
+    }
+}
