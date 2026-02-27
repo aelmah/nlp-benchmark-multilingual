@@ -7,7 +7,7 @@
             "en": 100.0,
             "es": 99.0
         },
-        "speed_ms": 6.185
+        "speed_ms": 3.886
     },
     "langid": {
         "accuracy_global": 99.71,
@@ -17,7 +17,7 @@
             "en": 100.0,
             "es": 99.0
         },
-        "speed_ms": 6.116
+        "speed_ms": 8.442
     },
     "fastText": {
         "accuracy_global": 100.0,
@@ -27,6 +27,6 @@
             "en": 100.0,
             "es": 100.0
         },
-        "speed_ms": 0.076
+        "speed_ms": 0.099
     }
 }

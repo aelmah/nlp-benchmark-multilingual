@@ -1,0 +1,4 @@
+Technique,Dimension,Type,Vitesse (ms)
+TF-IDF,2983,Sparse,0.447
+fastText,300,Dense,0.546
+XLM-RoBERTa,768,Dense (Transformer),175.587
